@@ -2,7 +2,7 @@ name: Deploy to Azure Spring Cloud with Key Vault
 on: [push]
 
 env:
-  AZURE_SUBSCRIPTION: bbe0a2d9-e821-4d2a-b2be-7cfe7e6174f7 # customize this
+  AZURE_SUBSCRIPTION: bbe0a2d9-e821-4d2a-b2be-7cfe7e6174f7 # customize this again
   SPRING_CLOUD_SERVICE: jz-azure-spring-cloud # customize this
   KEYVAULT: jz-spring-keyvault # customize this
   # ==== APPS ====:
